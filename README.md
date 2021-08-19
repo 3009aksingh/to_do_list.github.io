@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> A wbasic to-do list web application made using HTML, CSS and JS. Capable of adding and deleting scheduled tasks.
+> A basic to-do list web application made using HTML, CSS and JS. Capable of adding and deleting scheduled tasks.
 
 ### 🏠 [Homepage](https://3009aksingh.github.io/to_do_list.github.io/)
 
